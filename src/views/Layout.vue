@@ -1,7 +1,6 @@
 <template>
     <AppTopnav/>
     <AppHeader/>
-    <header>头部</header>
     <main class="app-body">
         <!-- 二级路由 -->
         <router-view></router-view>
